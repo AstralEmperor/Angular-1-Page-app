@@ -1,0 +1,14 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+:root{
+    $main: #000000;
+    $search: #0a0a0a;
+    $text: #ffffff;
+    $underlineText:#d4d4d4;
+
+    color:$text;
+    background-color:$main;
+}
